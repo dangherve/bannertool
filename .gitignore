@@ -6,3 +6,5 @@ build
 output
 
 !buildTools
+
+!.woodpecker
